@@ -1,6 +1,6 @@
 ---
 name: "Good First Issue"
-description: "A beginner-friendly issue for new contributors"
+about: "A beginner-friendly issue for new contributors"
 title: "Good First Issue: [Brief Description]"
 labels: ["good first issue"]
 assignees: ""
